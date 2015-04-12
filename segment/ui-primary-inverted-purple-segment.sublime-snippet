@@ -3,5 +3,5 @@
 <div class="ui primary inverted purple segment">$1</div>
 ]]></content>
     <tabTrigger>ui-primary-inverted-purple-segment</tabTrigger>
-    <scope>text.html -text.html.markdown</scope>
+    <scope>text.html, text.html.handlebars -text.html.markdown</scope>
 </snippet>

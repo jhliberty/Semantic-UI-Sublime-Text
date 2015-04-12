@@ -6,5 +6,5 @@
 </div>
 ]]></content>
     <tabTrigger>ui-google-plus-button</tabTrigger>
-    <scope>text.html -text.html.markdown</scope>
+    <scope>text.html, text.html.handlebars -text.html.markdown</scope>
 </snippet>

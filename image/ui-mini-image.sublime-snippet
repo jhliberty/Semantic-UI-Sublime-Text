@@ -3,5 +3,5 @@
 <img class="ui mini image" src="$1"${2: alt="$3"}>
 ]]></content>
     <tabTrigger>ui-mini-image</tabTrigger>
-    <scope>text.html -text.html.markdown</scope>
+    <scope>text.html, text.html.handlebars -text.html.markdown</scope>
 </snippet>

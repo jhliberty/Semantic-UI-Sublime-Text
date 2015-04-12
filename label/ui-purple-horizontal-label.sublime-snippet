@@ -3,5 +3,5 @@
 <div class="ui purple horizontal label">Fruit</div>
 ]]></content>
     <tabTrigger>ui-purple-horizontal-label</tabTrigger>
-    <scope>text.html -text.html.markdown</scope>
+    <scope>text.html, text.html.handlebars -text.html.markdown</scope>
 </snippet>

@@ -3,5 +3,5 @@
 <div class="ui medium loader">$1</div>
 ]]></content>
     <tabTrigger>ui-medium-loader</tabTrigger>
-    <scope>text.html -text.html.markdown</scope>
+    <scope>text.html, text.html.handlebars -text.html.markdown</scope>
 </snippet>

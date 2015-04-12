@@ -3,5 +3,5 @@
 <div class="ui teal button">$1</div>
 ]]></content>
     <tabTrigger>ui-teal-button</tabTrigger>
-    <scope>text.html -text.html.markdown</scope>
+    <scope>text.html, text.html.handlebars -text.html.markdown</scope>
 </snippet>

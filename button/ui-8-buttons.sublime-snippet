@@ -12,5 +12,5 @@
 </div>
 ]]></content>
     <tabTrigger>ui-8-buttons</tabTrigger>
-    <scope>text.html -text.html.markdown</scope>
+    <scope>text.html, text.html.handlebars -text.html.markdown</scope>
 </snippet>

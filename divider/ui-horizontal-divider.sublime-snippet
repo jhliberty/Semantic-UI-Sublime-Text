@@ -3,5 +3,5 @@
 <div class="ui horizontal divider></div>
 ]]></content>
     <tabTrigger>ui-horizontal-divider</tabTrigger>
-    <scope>text.html -text.html.markdown</scope>
+    <scope>text.html, text.html.handlebars -text.html.markdown</scope>
 </snippet>

@@ -3,5 +3,5 @@
 <h4 class="ui bottom attached header">$1</h4>
 ]]></content>
     <tabTrigger>ui-bottom-attached-header-4</tabTrigger>
-    <scope>text.html -text.html.markdown</scope>
+    <scope>text.html, text.html.handlebars -text.html.markdown</scope>
 </snippet>

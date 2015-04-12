@@ -3,5 +3,5 @@
 <h5 class="ui top attached header">$1</h5>
 ]]></content>
     <tabTrigger>ui-top-attached-header-5</tabTrigger>
-    <scope>text.html -text.html.markdown</scope>
+    <scope>text.html, text.html.handlebars -text.html.markdown</scope>
 </snippet>

@@ -16,5 +16,5 @@
 </div>
 ]]></content>
     <tabTrigger>ui-four-column-divided-grid</tabTrigger>
-    <scope>text.html -text.html.markdown</scope>
+    <scope>text.html, text.html.handlebars -text.html.markdown</scope>
 </snippet>

@@ -3,5 +3,5 @@
 <h3 class="ui header">$1</h3>
 ]]></content>
     <tabTrigger>ui-header-3</tabTrigger>
-    <scope>text.html -text.html.markdown</scope>
+    <scope>text.html, text.html.handlebars -text.html.markdown</scope>
 </snippet>

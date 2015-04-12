@@ -10,5 +10,5 @@
 </div>
 ]]></content>
     <tabTrigger>ui-6-large-labels</tabTrigger>
-    <scope>text.html -text.html.markdown</scope>
+    <scope>text.html, text.html.handlebars -text.html.markdown</scope>
 </snippet>

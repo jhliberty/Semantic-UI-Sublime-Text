@@ -3,5 +3,5 @@
 <table class="ui inverted green table segment">$1</table>
 ]]></content>
     <tabTrigger>ui-inverted-green-table-segment</tabTrigger>
-    <scope>text.html -text.html.markdown</scope>
+    <scope>text.html, text.html.handlebars -text.html.markdown</scope>
 </snippet>

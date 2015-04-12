@@ -3,5 +3,5 @@
 <div class="ui clearing divider></div>
 ]]></content>
     <tabTrigger>ui-clearing-divider</tabTrigger>
-    <scope>text.html -text.html.markdown</scope>
+    <scope>text.html, text.html.handlebars -text.html.markdown</scope>
 </snippet>

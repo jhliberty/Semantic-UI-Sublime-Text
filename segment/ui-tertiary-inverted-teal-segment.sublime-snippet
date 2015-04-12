@@ -3,5 +3,5 @@
 <div class="ui tertiary inverted teal segment">$1</div>
 ]]></content>
     <tabTrigger>ui-tertiary-inverted-teal-segment</tabTrigger>
-    <scope>text.html -text.html.markdown</scope>
+    <scope>text.html, text.html.handlebars -text.html.markdown</scope>
 </snippet>

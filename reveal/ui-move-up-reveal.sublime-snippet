@@ -6,5 +6,5 @@
 </div>
 ]]></content>
     <tabTrigger>ui-move-up-reveal</tabTrigger>
-    <scope>text.html -text.html.markdown</scope>
+    <scope>text.html, text.html.handlebars -text.html.markdown</scope>
 </snippet>

@@ -3,5 +3,5 @@
 <div class="ui primary segment">$1</div>
 ]]></content>
     <tabTrigger>ui-primary-segment</tabTrigger>
-    <scope>text.html -text.html.markdown</scope>
+    <scope>text.html, text.html.handlebars -text.html.markdown</scope>
 </snippet>

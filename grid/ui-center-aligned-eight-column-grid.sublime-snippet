@@ -28,5 +28,5 @@
 </div>
 ]]></content>
     <tabTrigger>ui-center-aligned-eight-column-grid</tabTrigger>
-    <scope>text.html -text.html.markdown</scope>
+    <scope>text.html, text.html.handlebars -text.html.markdown</scope>
 </snippet>

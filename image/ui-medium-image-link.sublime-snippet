@@ -5,5 +5,5 @@
 </a>
 ]]></content>
     <tabTrigger>ui-medium-image-link</tabTrigger>
-    <scope>text.html -text.html.markdown</scope>
+    <scope>text.html, text.html.handlebars -text.html.markdown</scope>
 </snippet>
